@@ -11,12 +11,12 @@ Thanks to these guys:
 
 ## Installation:
 
-Prerequisites: git, ack.
+Prerequisites: git, ag.
 
 1. Move your existing configuration somewhere else:
    `mv ~/.config/nvim* nvim_backup`
 2. Clone this repo into ".config/nvim":
-   `git clone https://github.com/strika/neovimfiles ~/.config/nvim`
+   `git clone https://github.com/renderedtext/neovimfiles ~/.config/nvim`
 3. Go into ".config/nvim" and run "install":
    `cd ~/.config/nvim && ./install`
 
